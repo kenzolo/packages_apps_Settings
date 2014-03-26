@@ -80,13 +80,7 @@
         android:icon="@drawable/ic_settings_teloradio"
         android:fragment="com.android.settings.aicp.teloradio.TeloRadioSettings" />
 
-    <!-- KernelTweaker -->
-    <PreferenceScreen
-        android:key="kerneltweaker_start"
-        android:title="@string/kerneltweaker_settings_title"
-        android:icon="@drawable/ic_kernel_tweaker" />
-
-    <!-- Density changer -->
+   <!-- Density changer -->
     <PreferenceScreen
         android:id="@+id/density_changer"
         android:title="@string/lcd_density_title"
@@ -106,11 +100,5 @@
         android:icon="@drawable/ic_settings_slim_sizer"
         android:title="@string/system_app_remover"
         android:fragment="com.android.settings.slim.SystemappRemover" />
-
-    <!-- AICP OTA -->
-    <PreferenceScreen
-        android:key="aicp_ota_start"
-        android:title="@string/aicp_ota_settings_title"
-        android:icon="@drawable/ic_aicp_ota" />
 
 </PreferenceScreen>
