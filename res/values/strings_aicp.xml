@@ -19,7 +19,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- Aicp Settings -->
-    <string name="aicp_settings_title">AICP extras</string>
+    <string name="aicp_settings_title">Heisenberg Extras</string>
     <string name="aicp_settings_summary">AICP features that don\'t belong in RC</string>
 
     <!-- Aicp team -->
@@ -31,6 +31,11 @@
     <string name="aicp_eyosen_title">Eyosen</string>
     <string name="aicp_oblikas_title">Oblikas</string>
     <string name="aicp_ttoivainen_title">TToivanen</string>
+
+  <!-- Donate to Kenzolo -->
+    <string name="donate_kenzolo_title">Support Dev</string>
+    <string name="donate_kenzolo_summary">Donate to Kenzolo</string>
+    <string name="donate_link" formatted="false">https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=GA8Z5H9SMBASQ</string>
 
     <!-- Display and Animations -->
     <string name="disp_anim_settings_title">Display and animations</string>
@@ -167,7 +172,7 @@
     <string name="lockscreen_icon_title">Lock handle icon</string>
     <string name="lockscreen_lock_icon_custom">Custom icon</string>
     <string name="lockscreen_lock_icon_stock">Stock Icon</string>
-    <string name="lockscreen_lock_icon_default">AICP icon</string>
+    <string name="lockscreen_lock_icon_default">Heisenberg icon</string>
     <string name="lockscreen_colorize_handle_title">Colorize custom handle</string>
     <string name="lockscreen_colorize_handle_summary">Lock color will be set to your custom image</string>
     <string name="lockscreen_targets_color_title">Targets color</string>

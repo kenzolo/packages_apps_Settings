@@ -65,7 +65,7 @@ public class PlatLogoActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         
-        mToast = Toast.makeText(this, "A. I. C. P.", Toast.LENGTH_SHORT);
+        mToast = Toast.makeText(this, "HEISENBERG", Toast.LENGTH_SHORT);
 
         mZzz = (Vibrator) getSystemService(Context.VIBRATOR_SERVICE);
 
